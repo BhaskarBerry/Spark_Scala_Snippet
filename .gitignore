@@ -4,6 +4,8 @@
 .classpath
 .settings
 .sonar
+.bsp
+.idea
 /bin
 /target/
 /project/project
