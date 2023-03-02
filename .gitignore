@@ -5,7 +5,7 @@
 .settings
 .sonar
 .bsp
-.idea
+/.idea/*
 /bin
 /target/
 /project/project

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="spark_scala_snippet" />
+    <profile name="sbt 1" modules="Spark_Scala_Snippet,spark_scala_snippet" />
   </component>
 </project>
